@@ -1,16 +1,29 @@
 {
-  "homepage": "https://heatedharth.github.io/Updated-Exercise-App",
-  "name": "react-exercise-app",
+  "homepage": "https://heatedharth.github.io/react-native-exercise-app",
+  "name": "react-native-exercise-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@expo/metro-runtime": "~4.0.1",
+    "@react-navigation/native": "^7.0.19",
+    "@react-navigation/stack": "^7.2.3",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
     "ajv": "^8.17.1",
+    "expo": "^52.0.41",
+    "metro": "^0.82.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-native": "^0.78.1",
+    "react-native-elements": "^3.4.3",
+    "react-native-gesture-handler": "^2.24.0",
+    "react-native-reanimated": "^3.17.1",
+    "react-native-safe-area-context": "^5.3.0",
+    "react-native-screens": "^4.10.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-web": "~0.19.13",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -39,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
