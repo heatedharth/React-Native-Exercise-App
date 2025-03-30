@@ -13,6 +13,6 @@
             "resizeMode": "contain",
             "backgroundColor": "#ffffff"
         },
-        "entryPoint": "./App.js"
+        "entryPoint": "src/App.js"
     }
 }
